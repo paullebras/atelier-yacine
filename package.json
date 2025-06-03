@@ -1,0 +1,24 @@
+{
+  "name": "atelier-yacine",
+  "version": "1.0.0",
+  "description": "learning git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paullebras/atelier-yacine.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/paullebras/atelier-yacine/issues"
+  },
+  "homepage": "https://github.com/paullebras/atelier-yacine#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
